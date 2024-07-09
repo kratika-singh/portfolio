@@ -6,11 +6,11 @@
   /*Color mode HSL (hue, saturation, lightness)*/
   --hue: 0;
   --sat: 0%;
-  --title-color: hsl (var(--hue), var(--sat), 20%);
-  --title-color-dark: #F1E5D1;
-  --text-color: hsl (var(--hue), var(--sat), 46%);
-  --body-color: #eee5eb;
-  --container-color: #DBB5B5;
+  --title-color: #2E86AB;
+  --title-color-dark: #A3D2CA;
+  --text-color:#555555;
+  --body-color: #F7F6F3;
+  --container-color: #FFFFFF;
 
   /* fonts */
   --body-font: "Poppins", sans-serif;
@@ -149,14 +149,27 @@ img{
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
+  .button{
+    padding: 1rem 1.75rem;
+  }
+  .button__icon{
+    width: 22px;
+    height: 22px;
+  }
 }
 @media screen and (max-width: 768px) {
-  
+  .section{
+    padding: 2rem 0 4rem;
+  }
 }
 @media screen and (max-width: 576px) {}
 @media screen and (max-width: 350px) {
+  :root{
+    --big-font-size:2.2rem;
+  }
   .container{
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
+  
 }
