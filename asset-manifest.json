@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f712f691.css",
-    "main.js": "/portfolio/static/js/main.a2777d1c.js",
+    "main.css": "/portfolio/static/css/main.d33b3d83.css",
+    "main.js": "/portfolio/static/js/main.0a371d88.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.c96ca5b00d17e682d27e.jpg",
-    "static/media/about.jpeg": "/portfolio/static/media/about.d92955b527b66b7392b1.jpeg",
+    "static/media/about1.jpg": "/portfolio/static/media/about1.f0a25354908772d9f772.jpg",
+    "static/media/about.jpeg": "/portfolio/static/media/about.7552b9db5136bac858ed.jpeg",
+    "static/media/project4.jpg": "/portfolio/static/media/project4.7c47b6d784d606fc1325.jpg",
+    "static/media/project1.jpg": "/portfolio/static/media/project1.7a6315413cb4071a61af.jpg",
+    "static/media/project2.jpg": "/portfolio/static/media/project2.5ea891559a3d2ec021df.jpg",
     "static/media/KratikaResume.pdf": "/portfolio/static/media/KratikaResume.005d516f478a9228f1ad.pdf",
+    "static/media/project3.jpg": "/portfolio/static/media/project3.120cf820e132630faa3b.jpg",
     "index.html": "/portfolio/index.html",
-    "main.f712f691.css.map": "/portfolio/static/css/main.f712f691.css.map",
-    "main.a2777d1c.js.map": "/portfolio/static/js/main.a2777d1c.js.map",
+    "main.d33b3d83.css.map": "/portfolio/static/css/main.d33b3d83.css.map",
+    "main.0a371d88.js.map": "/portfolio/static/js/main.0a371d88.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f712f691.css",
-    "static/js/main.a2777d1c.js"
+    "static/css/main.d33b3d83.css",
+    "static/js/main.0a371d88.js"
   ]
 }
