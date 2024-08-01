@@ -1,7 +1,11 @@
 import React, { useState } from "react";
 import "./header.css";
 const Header = () => {
+  // window.addEventListener("scroll",function(){
+  //   const scrollUp = document.querySelector("")
+  // })
   // Toggle menu
+
   const[Toggle,showMenu] = useState(false);
   return (
     <div>
@@ -36,7 +40,7 @@ const Header = () => {
               <li className="nav__item">
                 <a href="#portfolio" className="nav__link">
                     <i className="uil uil-scenery nav__icon"></i>
-                    PortFolio
+                    Projects
                 </a>
               </li>
 

@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="home__img"></div>
                 <Data/>
             </div>
-            <ScrollDown/>
+            {/* <ScrollDown/> */}
         </div>
     </section>
   )
