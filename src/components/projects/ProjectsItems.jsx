@@ -9,6 +9,9 @@ const ProjectsItems = ({item}) => {
       <a href={item.git} className="work__button">
         Git Repo <i className="bx bx-right-arrow-alt work__button-icon"></i>
       </a>
+      <a href={item.live} className="work__button">
+        Live Preview <i className="bx bx-right-arrow-alt work__button-icon"></i>
+      </a>
         </div>
     </div>
   )

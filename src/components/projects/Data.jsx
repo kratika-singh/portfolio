@@ -9,25 +9,28 @@ export const projectsData =[
         id:1,
         image:project1,
         title: 'WEAR2CARE',
+        live: "https://wear2care-5zk4.onrender.com/",
         git: "https://github.com/kratika-singh/wear2care.git"
     },
     {
         id:2,
         image:project2,
         title: 'School Management',
+        live:"https://srbsps.rf.gd/",
         git: "https://github.com/kratika-singh/schoolManagement.git"
     },
     {
         id:3,
         image:project3,
-        title: 'ScreenTime Tracker',
+        title: 'TimeGaze',
+        live: "https://github.com/kratika-singh/ScreenTime-Chrome-Extension.git",
         git: "https://github.com/kratika-singh/ScreenTime-Chrome-Extension.git"
     },
     {
         id:4,
         image:project4,
         title: 'Shoppy - A clothing Website',
+        live: "https://github.com/kratika-singh/eCommerce.git",
         git: "https://github.com/kratika-singh/eCommerce.git"
     }
-
 ];
